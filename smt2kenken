@@ -1,0 +1,13 @@
+#! /usr/bin/env python3
+
+
+from sys import stdin
+from kenken_src import parse_smt
+
+if __name__ == "__main__":
+    # remove all '(' and ')' characters. This leaves the line
+    # as two numbers separated by a space. Strip any spaces
+    # off the ends. Since the cells can only be between 1 and 7,
+    # they are always single digits, so the last character left
+    # at this point is the cell value.
+    parse_smt(stdin.readlines())
