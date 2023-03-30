@@ -1,0 +1,8 @@
+#kenken www.kenkenpuzzle.com Puzzle 21771 7x7 Medium
+r1.30*,r1,r1,r2.70*,r3.126*,r3,r4.96*
+r5.2/,r2,r2,r2,r3,r4,r4
+r5,r6.336*,r6,r7.4800*,r7,r8.105*,r4
+r6,r6,r6,r7,r9.2/,r8,r10.2
+r11.420*,r11,r11,r7,r9,r8,r8
+r11,r11,r7,r7,r12.504*,r13.210*,r13
+r14.6*,r14,r12,r12,r12,r13,r13

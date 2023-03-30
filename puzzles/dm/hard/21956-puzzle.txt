@@ -1,0 +1,8 @@
+#kenken www.kenkenpuzzle.com Puzzle 21956 7x7 Hard
+r1.60*,r2.2/,r2,r3.11340*,r3,r3,r3
+r1,r1,r1,r3,r4.560*,r5.168*,r5
+r6.840*,r6,r6,r3,r4,r5,r5
+r6,r7.42*,r4,r4,r4,r8.1260*,r9.30*
+r6,r7,r10.8*,r10,r10,r8,r9
+r11.432*,r11,r10,r8,r8,r8,r9
+r12.5,r11,r11,r11,r13.28*,r13,r13

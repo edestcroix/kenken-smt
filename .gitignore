@@ -1,4 +1,5 @@
 *.svg
-*.txt
 __pycache__
+auth.txt
+cookies.txt
 results

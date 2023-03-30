@@ -1,0 +1,8 @@
+#kenken www.kenkenpuzzle.com Puzzle 21940 7x7 Hard
+r1.21*,r1,r1,r2.900*,r2,r2,r3.24*
+r4.1344*,r4,r2,r2,r5.504*,r3,r3
+r4,r6.140*,r6,r6,r5,r5,r5
+r4,r4,r7.144*,r6,r6,r8.630*,r5
+r9.30*,r9,r7,r8,r8,r8,r5
+r9,r10.6*,r7,r11.140*,r11,r12.21*,r12
+r9,r10,r7,r11,r13.2/,r13,r14.5
